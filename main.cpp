@@ -31,7 +31,7 @@ public:
          
       return(length);
     }
-
+   //destructor created
       ~npoint(){
          delete []p;
       }
